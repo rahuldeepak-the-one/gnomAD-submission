@@ -1,0 +1,8 @@
+##fileformat=VCFv4.2
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Frequency">
+#CHROM  POS     ID      REF     ALT     QUAL    FILTER  INFO
+chr1    1001    .       A       T       100     PASS    AF=0.25
+chr1    2001    .       G       C       100     PASS    AF=0.6
+chr2    3001    .       T       C       100     PASS    AF=0.75
+chr3    4001    .       C       G       100     PASS    AF=0.9
+chr4    5001    .       C       G       100     PASS    AF=0.3
